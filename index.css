@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+.director {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.director h2 {
+    margin-top: 0;
+}
+.top-films {
+    margin-top: 20px;
+}
+.top-films h3 {
+    margin-bottom: 10px;
+}
